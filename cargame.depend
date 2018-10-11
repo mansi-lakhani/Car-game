@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1491970091 source:f:\sem 4\computer graphics\practicals\game\cargame\main.cpp
+	<iostream>
+	<graphics.h>
+	<windows.h>
+	"Road.h"
+
+1492021777 f:\sem 4\computer graphics\practicals\game\cargame\include\road.h
+	<windows.h>
+	<graphics.h>
+	<stdio.h>
+
+1492049573 source:f:\sem 4\computer graphics\practicals\game\cargame\src\road.cpp
+	"Road.h"
+
+1491816752 f:\sem 4\computer graphics\practicals\game\cargame\include\car.h
+	<windows.h>
+	<graphics.h>
+
+1491839527 source:f:\sem 4\computer graphics\practicals\game\cargame\src\car.cpp
+	"Car.h"
+
+1491974754 source:f:\sem 4\computer graphics\practicals\game\cargame\src\fuel.cpp
+	"fuel.h"
+
+1491973092 f:\sem 4\computer graphics\practicals\game\cargame\include\fuel.h
+	<graphics.h>
+
+1492012074 f:\sem 4\computer graphics\practicals\game\cargame\include\car1.h
+	"Road.h"
+	<graphics.h>
+	<windows.h>
+	<stdio.h>
+
+1492013655 source:f:\sem 4\computer graphics\practicals\game\cargame\src\car1.cpp
+	"car1.h"
+
